@@ -1,0 +1,12 @@
+﻿
+producto,X,A,C,
+producto,Y,B,D,A,
+producto,Z,D,B,
+maquina,A,a1,a2,
+maquina,B,b1,b2,
+maquina,C,c1,c2,
+maquina,D,d1,d2,
+cond,a1,A,b2,B,
+cond,c1,C,d1,D,
+cond,c2,C,d2,D,
+cond,b1,B,a2,A,
